@@ -1,0 +1,10 @@
+[package]
+name = "SigmaOS-printer-sharing"
+version = "0.1.0"
+edition = "2021"
+license = "Apache-2.0"
+description = "SigmaOS printer-sharing component - printing"
+
+[lib]
+name = "printer_sharing"
+path = "src/lib.rs"

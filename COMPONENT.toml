@@ -3,7 +3,7 @@ name = "SigmaOS-printer-sharing"
 tier = 2
 stability = "scaffold"
 language = "rust"
-description = "printer-sharing component"
+description = "Printer Sharing"
 upstream = []
 
 [contract]
